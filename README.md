@@ -121,7 +121,7 @@ This project is open-source under the **MIT License**. 🚀
 ---
 
 ## 👨‍💻 **Author**  
-**Muawiya** - Passionate Python Developer & AI Enthusiast  
+**Sneaker** - Passionate Python Developer & AI Enthusiast  
 
 📧 **Email:** [workchine2017@gmail.com](mailto:workchine2017@gmail.com)  
 🔗 **GitHub:** [sneaker-dev](https://github.com/sneaker-dev)  
