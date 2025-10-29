@@ -1,6 +1,6 @@
 # 🏦 Ultimate Bank System - Python 🚀
 
-![Bank System Banner](https://raw.githubusercontent.com/Muawiya-contact/Ultimate-Bank-System-Python/main/banner.png)
+![Bank System Banner](https://raw.githubusercontent.com/sneaker-dev/Ultimate-Bank-System-Python/main/banner.png)
 
 
 
@@ -82,7 +82,7 @@
 
 ### **🔹 Clone this Repository**  
 ```sh
-git clone https://github.com/Muawiya-contact/Ultimate-Bank-System-Python.git
+git clone git@github.com:sneaker-dev/Ultimate-Bank-System-Python.git
 ```
 
 ### **🔹 Navigate to the Project Folder**  
@@ -123,8 +123,8 @@ This project is open-source under the **MIT License**. 🚀
 ## 👨‍💻 **Author**  
 **Muawiya** - Passionate Python Developer & AI Enthusiast  
 
-📧 **Email:** [contactmuawia@gmail.com](mailto:contactmuawia@gmail.com)  
-🔗 **GitHub:** [Muawiya-contact](https://github.com/Muawiya-contact)  
+📧 **Email:** [workchine2017@gmail.com](mailto:workchine2017@gmail.com)  
+🔗 **GitHub:** [sneaker-dev](https://github.com/sneaker-dev)  
 
 ---
 
